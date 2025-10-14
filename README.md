@@ -1,5 +1,4 @@
 # EEG-Pain-Classification
-A Hybrid Feature Engineering Framework for EEG Pain Classification
 <img width="469" height="683" alt="image" src="https://github.com/user-attachments/assets/a42f1ed8-ee24-445a-a640-7f0a45b2c9e7" />
 
 
